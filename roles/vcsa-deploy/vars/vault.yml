@@ -1,0 +1,3 @@
+vault_esxi_username: 'root'
+vault_esxi_password: 'B@rt1o85'
+vault_vcenter_password: 'password'

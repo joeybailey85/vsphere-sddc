@@ -52,7 +52,7 @@ ntp_servers:
   - 132.163.97.1
   - 132.163.96.1
 
-target_esxi: "192.168.0.11"
+target_esxi: "192.168.0.200"
 target_esxi_username: "{{ vault_esxi_username }}"
 target_esxi_password: "{{ vault_esxi_password }}"
 
