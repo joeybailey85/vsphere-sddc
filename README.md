@@ -1,4 +1,4 @@
-# vsphere-sddc
+# vsphere-sddcTEST
 Project to deploy complete SDDC stack using Ansible. Initial execution of the workflow will rely upon a hard-coded variables YAML file for ingestion of values.
 
 ## Ansible Roles
